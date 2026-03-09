@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/assets/Qwen2.5-1.5.litertlm
+/.kotlin/
+/.idea/vcs.xml
